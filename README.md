@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=emily1290)](https://solved.ac/emily1290)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lov-etan)](https://github.com/anuraghazra/github-readme-stats)
